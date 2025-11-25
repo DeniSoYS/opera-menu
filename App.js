@@ -813,9 +813,9 @@ export default function App() {
                   <View style={[styles.priceItem, styles.priceItemBorder]}>
                     <View style={styles.priceItemLeft}>
                       <Text style={styles.priceItemIcon}>⏰</Text>
-                      <Text style={styles.priceLabel}>Аренд зала в не рабочее время, 1 час</Text>
+                      <Text style={styles.priceLabel}> 1 час</Text>
                     </View>
-                    <Text style={styles.priceValue}>3000 ₽</Text>
+                    <Text style={styles.priceValue}>300 ₽</Text>
                   </View>
 
                   <View style={[styles.priceItem, styles.priceItemBorder]}>
