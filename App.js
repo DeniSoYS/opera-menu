@@ -815,7 +815,7 @@ export default function App() {
                       <Text style={styles.priceItemIcon}>⏰</Text>
                       <Text style={styles.priceLabel}>Аренда зала в не рабочее время, 1 час</Text>
                     </View>
-                    <Text style={styles.priceValue}>3000 ₽</Text>
+                    <Text style={styles.priceValue}>1500 ₽</Text>
                   </View>
 
                   <View style={[styles.priceItem, styles.priceItemBorder]}>
